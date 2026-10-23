@@ -1,0 +1,29 @@
+# 本地运行数据（用户上传的漫画、日志、模型缓存）
+data/
+models/
+vendor/
+.pylibs/
+.venv/
+
+# 构建产物
+desktop/bin/
+desktop/obj/
+desktop/publish/
+desktop/publish-fd/
+desktop/publish-full/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 临时文件
+.tmp/
+.browser*/
+*.log
+Thumbs.db
+.DS_Store
+
+# 调试用 URL 文件
+打开界面.url
