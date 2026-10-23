@@ -14,7 +14,7 @@ OCR（RapidOCR + manga-ocr）、翻译（Qwen3-4B）、嵌字渲染全部在这�
 
 > 界面截图（合成测试页，非真实漫画素材）：
 >
-> ![界面](docs/screenshot.png)
+> ![界面](screenshot.png)
 
 ---
 
